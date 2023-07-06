@@ -1,0 +1,20 @@
+{
+  "name": "bitespeed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitpnd555/bitespeed.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitpnd555/bitespeed/issues"
+  },
+  "homepage": "https://github.com/amitpnd555/bitespeed#readme"
+}
